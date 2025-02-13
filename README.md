@@ -4,10 +4,10 @@ This is a crud project created using html, bootstrap and javascript.
 ## Features 
 * Add New Feedback
 * Edit Feedback
-* Delete Feedtback
-* See your feetbacks everywhere because we are using a real api's
-* View the summary of Feetbacks
-* Take a look of Detailed Feetbacks
+* Delete Feedback
+* See your feedbacks everywhere because we are using a real api's
+* View the summary of Feedbacks
+* Take a look of Detailed Feedbacks
 
 ## Instructions
 * Open (crud website)[https://crudcrud.com/].
