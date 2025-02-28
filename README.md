@@ -1,24 +1,34 @@
 # Feedback-System
-This is a crud project created using html, bootstrap and javascript.
+A super cool Feedback System to help people to give Feedbacks.
+
+## Built With
+* HTML
+* CSS
+* JavaScript
+* Fetch API's
 
 ## Features 
 * Add New Feedback
 * Edit Feedback
 * Delete Feedback
-* See your feedbacks everywhere because we are using a real api's
+* See your feedbacks everywhere because we are using real api's
 * View the summary of Feedbacks
 * Take a look of Detailed Feedbacks
+* Form validation.
+* Fully responsive design.
 
 ## Instructions
 * Open (crud website)[https://crudcrud.com/].
 * Copy and paste the api key to the Javascript file.
   
   ```
-  const API_URL = "https://crudcrud.com/api/add-your-key-here/feedbacks";
+  const baseAPI = "https://crudcrud.com/api/add-your-key-here";
   ```
-## Demo
-![Screenshot (52)](https://github.com/user-attachments/assets/15e6e66f-de8c-4511-ac28-8567036bc241)
-![Screenshot (53)](https://github.com/user-attachments/assets/fa0eeb56-6ea0-4b35-b88d-afab8ab8fa14)
-![Screenshot (54)](https://github.com/user-attachments/assets/e410dd15-eeee-4b0c-9290-178969d1f21d)
-![Screenshot (55)](https://github.com/user-attachments/assets/13b5ee2e-bf62-4c81-b81d-69cb356c0257)
-![Screenshot (56)](https://github.com/user-attachments/assets/3f3efef5-bb06-43c3-9115-8657db40c94b)
+
+## Preview
+<img src="./images/Screenshot (101).png">
+<img src="./images/Screenshot (102).png">
+<img src="./images/Screenshot (103).png">
+<img src="./images/Screenshot (104).png">
+<img src="./images/Screenshot (105).png">
+<img src="./images/Screenshot (106).png">
